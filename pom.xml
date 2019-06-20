@@ -30,7 +30,6 @@
 			<id>hosted</id>
 			<url>https://localhost:8443/repository/siemenshosted/</url>
 		</repository>
-		<snapshotRepo
 	</distributionManagement>
 
 	<dependencies>
